@@ -10,7 +10,7 @@
 1. Install Postgres ```brew install postgres```
 1. Install Imagemagick ```brew install imagemagick```
 1. Install curl ```brew install curl```
-1. Add your SSH keys for github
+1. Add your SSH keys for Github https://help.github.com/articles/generating-ssh-keys
 1. Install Heroku Toolbelt https://toolbelt.heroku.com/osx
 1. Install ohmyzsh https://github.com/miguelperez/ohmyzsh-confs/blob/master/README.md
 1. Install Sublime Text
