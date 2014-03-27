@@ -3,7 +3,7 @@
 1. Setup your iCloud account (if any)
 1. Install Chrome and Firefox
 1. Install Dropbox
-1. Download and Install Command Line Developer Tools from the App Store
+1. Download and Install Command Line Developer Tools from the App Store. Alternatively, run ```xcode-select --install```
 1. Install Brew http://brew.sh/
 1. Install Git ```brew install git```
 1. Install zsh ```brew install zsh```
